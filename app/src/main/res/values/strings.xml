@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">DTM</string>
+    <string name="home">Home</string>
+    <string name="history">History</string>
+    <string name="favourite">Favourite</string>
+    <string name="settings">Settings</string>
+</resources>
